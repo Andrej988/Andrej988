@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Slovenia
-* 🧠  I'm currently learning Akka, ML
+* 🧠  I'm currently learning ML
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
